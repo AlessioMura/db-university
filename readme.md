@@ -24,7 +24,7 @@
 ### Studenti
 - **ID** | INT - AUTO_INCREMENT - PK - UNIQUE - NOT NULL
 - **Nome_Cognome** | VARCHAR(200)
-- **Corso_Laurea_ID | INT - FK - NOT NULL
+- **Corso_Laurea_ID** | INT - FK - NOT NULL
 
 ### Appelli
 - **ID** | INT - AUTO_INCREMENT - PK - UNIQUE - NOT NULL
